@@ -4,5 +4,5 @@ export const educations = [
     title: "Master of Science in Computational Science and Engineering",
     duration: "2023 - Present",
     institution: "Georgia Institute of Technology",
-  },
+  }
 ]
