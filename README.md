@@ -1,21 +1,11 @@
 
----
-
-
----
 
 # Developer Portfolio
 
 
----
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
 ## View live preview [here](https://taraliu.netlify.app/).
 
----
+
 
 ## Table of Contents :scroll:
 
