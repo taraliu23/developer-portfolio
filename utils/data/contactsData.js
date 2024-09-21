@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'tliu479@gatech.edu',
-    phone: '',
+    phone: '(+1)404-915-1519',
     address: 'Atlanta, GA, USA',
     github: 'https://github.com/taraliu23',
     facebook: '',
