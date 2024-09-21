@@ -1,15 +1,15 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Data Governance Analyst',
+    title: 'Data Analyst',
     company: "MARTA (Metropolitan Atlanta Rapid Transit Authority)",
-    duration: "Jan 2024 - Present"
+    duration: "January - August 2024 "
   },
   {
     id: 2,
     title: "Simulation Developer",
     company: "AI4OPT",
-    duration: "May 2024 - Present"
+    duration: "May - August 2024"
   },
   {
     id: 3,
