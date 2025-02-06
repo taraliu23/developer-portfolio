@@ -11,18 +11,20 @@ export const projectsData = [
         tools: ['Python', 'Computer Simulation',],
         role: 'Data Engineer',
         code: '',
-        demo: 'https://www.linkedin.com/in/tara-tingyu-liu/overlay/1712944783721/single-media-viewer/?profileId=ACoAADkknJEBgymnWw1Z5PcinxBcNOtJy2rzrHY',
-        image: crefin,
+        link: 'https://www.linkedin.com/in/tara-tingyu-liu/overlay/1712944783721/single-media-viewer/?profileId=ACoAADkknJEBgymnWw1Z5PcinxBcNOtJy2rzrHY',
+        // image: crefin,
+
     },
     {
         id: 2,
-        name: 'Gemstone Price Predition',
+        name: 'Gemstone Price Prediction',
         description: '',
         tools: ['R', 'Python(sk-learn)', "Regression Analysis", "Data Cleaning", "Data Visualization"],
         role: 'Data Scientist',
-        code: 'https://taraliu23.github.io/pdf/RegressionforJewelPrice.pdf',
+        link: 'https://taraliu23.github.io/pdf/RegressionforJewelPrice.pdf',
         demo: '',
-        image: travel,
+        // image: travel,
+        previewImage: 'https://taraliu23.github.io/pdf/RegressionforJewelPrice.pdf'
     },
     {
         id: 3,
@@ -32,18 +34,19 @@ export const projectsData = [
         code: 'https://rpubs.com/drunken-boat/major4-final-2',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        // image: realEstate,
+        link: 'https://rpubs.com/drunken-boat/major4-final-2'
     },
-    // {
-    //     id: 4,
-    //     name: 'Newsroom Management',
-    //     description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-    //     tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-    //     code: '',
-    //     demo: '',
-    //     image: ayla,
-    //     role: 'Full Stack Developer',
-    // }
+    {
+        id: 4,
+        name: 'Aro and Sword: An education full-stack web application',
+        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
+        tools: ['NextJS', 'Material UI', 'React', 'JavaScript', "TypeScript"],
+        code: '',
+        demo: '',
+        image: ayla,
+        role: 'Full Stack Developer',
+    }
 ];
 
 
