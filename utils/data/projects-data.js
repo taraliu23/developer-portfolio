@@ -2,51 +2,66 @@ import ayla from '/public/image/ayla.jpg';
 import crefin from '/public/image/crefin.jpg';
 import realEstate from '/public/image/real-estate.jpg';
 import travel from '/public/image/travel.jpg';
+import poster from '/public/image/poster.jpg';
+import quality from '/public/image/quality.png';
+import aro from '/public/image/aro.jpg';
+import workflow from '/public/image/workflow.png';
 
 export const projectsData = [
     {
         id: 1,
+        name: 'TSP Solver and Optimizer',
+        description: 'Implemented three different algorithms to solve the Traveling Salesman Problem (TSP) and evaluated their performance. Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. Applied Python- based graph theory and network optimization techniques for efficient route planning.Implemented three different algorithms to solve the Traveling Salesman Problem(TSP) and evaluated their performance.Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. - Applied Python - based graph theory and network optimization techniques for efficient route planning.',
+        tools: ['Python', , 'C++', "Data Structure and Algorithm", "Data Visualization"],
+        role: 'Data Scientist',
+        link: 'https://github.com/taraliu23/CSE6140-Final-Project',
+        demo: '',
+        image: quality,
+    },
+    {
+        id: 2,
+        name: 'Aro and Sword: An education full-stack web application',
+        description: "Developed a full-stack web application for education and engagement",
+        tools: ['NextJS', 'Material UI', 'React', 'JavaScript', "TypeScript"],
+        code: '',
+        demo: '',
+        image: aro,
+        role: 'Full Stack Developer',
+        link: 'https://aro-and-sword.vercel.app/'
+    },
+    {
+        id: 3,
         name: 'From Pixels to Skyline: Urban Growth Modeling and Simulation',
         description: "",
         tools: ['Python', 'Computer Simulation',],
         role: 'Data Engineer',
         code: '',
-        link: 'https://www.linkedin.com/in/tara-tingyu-liu/overlay/1712944783721/single-media-viewer/?profileId=ACoAADkknJEBgymnWw1Z5PcinxBcNOtJy2rzrHY',
-        // image: crefin,
-
-    },
-    {
-        id: 2,
-        name: 'Gemstone Price Prediction',
-        description: '',
-        tools: ['R', 'Python(sk-learn)', "Regression Analysis", "Data Cleaning", "Data Visualization"],
-        role: 'Data Scientist',
-        link: 'https://taraliu23.github.io/pdf/RegressionforJewelPrice.pdf',
-        demo: '',
-        // image: travel,
-        previewImage: 'https://taraliu23.github.io/pdf/RegressionforJewelPrice.pdf'
-    },
-    {
-        id: 3,
-        name: 'Aggressive or polite?: Social Media Analysis on Metal Music',
-        description: '',
-        tools: ['NLP', 'Docker', 'Verification and Validation ',],
-        code: 'https://rpubs.com/drunken-boat/major4-final-2',
-        role: 'Full Stack Developer',
-        demo: '',
-        // image: realEstate,
-        link: 'https://rpubs.com/drunken-boat/major4-final-2'
+        link: 'https://drive.google.com/file/d/1hNZ5LXt0TDBvk2a1WLoSPBB2WjJXHHBU/view',
+        image: poster,
     },
     {
         id: 4,
-        name: 'Aro and Sword: An education full-stack web application',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'React', 'JavaScript', "TypeScript"],
-        code: '',
+        name: 'Genmo Combo: AI for Mental Health & Genetic Diseases',
+        description: 'Built a community-driven AI platform that connects patients with clinical trials and expert resources.',
+        tools: ['GenAI', 'LLM', "Natural Language Processing", "Data Engineering",],
+        role: 'Machine Learning Engineer',
+        link: 'https://github.com/taraliu23/Turmerik-MLE-Takehome/blob/main/Report.pdf',
         demo: '',
-        image: ayla,
-        role: 'Full Stack Developer',
-    }
+        image: workflow
+    },
+    // {
+    //     id: 3,
+    //     name: 'Aggressive or polite?: Social Media Analysis on Metal Music',
+    //     description: '',
+    //     tools: ['NLP', 'Docker', 'Verification and Validation ',],
+    //     code: 'https://rpubs.com/drunken-boat/major4-final-2',
+    //     role: 'Full Stack Developer',
+    //     demo: '',
+    //     // image: realEstate,
+    //     link: 'https://rpubs.com/drunken-boat/major4-final-2'
+    // },
+
+
 ];
 
 

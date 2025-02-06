@@ -6,4 +6,11 @@ export const educations = [
     institution: "Georgia Institute of Technology",
   },
 
+  {
+    id: 2,
+    title: "Urban Planning",
+    duration: "2018 - 2023",
+    institution: "Beijing Forestry University",
+  },
+
 ]
