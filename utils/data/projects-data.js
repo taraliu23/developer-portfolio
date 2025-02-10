@@ -1,5 +1,5 @@
 import travel from '/public/image/travel.jpg';
-import poster from '/public/image/poster.jpg';
+import poster from '/public/image/Poster.jpg';
 import quality from '/public/image/quality.png';
 import aro from '/public/image/aro.jpg';
 import workflow from '/public/image/workflow.png';
