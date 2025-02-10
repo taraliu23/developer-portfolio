@@ -1,4 +1,4 @@
-port travel from '/public/image/travel.jpg';
+import travel from '/public/image/travel.jpg';
 import poster from '/public/image/poster.jpg';
 import quality from '/public/image/quality.png';
 import aro from '/public/image/aro.jpg';
@@ -10,7 +10,7 @@ export const projectsData = [
         name: 'TSP Solver and Optimizer',
         description: 'Implemented three different algorithms to solve the Traveling Salesman Problem (TSP) and evaluated their performance. Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. Applied Python- based graph theory and network optimization techniques for efficient route planning.Implemented three different algorithms to solve the Traveling Salesman Problem(TSP) and evaluated their performance.Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. - Applied Python - based graph theory and network optimization techniques for efficient route planning.',
         tools: ['Python', , 'C++', "Data Structure and Algorithm", "Data Visualization"],
-        role: 'Data Scientist',
+        role: 'Software Engineer',
         link: 'https://github.com/taraliu23/CSE6140-Final-Project',
         code: '',
         demo: '',
@@ -21,11 +21,11 @@ export const projectsData = [
         name: 'Aro and Sword: An education full-stack web application',
         description: "Developed a full-stack web application for education and engagement",
         tools: ['NextJS', 'Material UI', 'React', 'JavaScript', "TypeScript"],
+        role: 'Full Stack Developer',
+        link: 'https://aro-and-sword.vercel.app/',
         code: '',
         demo: '',
         image: aro,
-        role: 'Full Stack Developer',
-        link: 'https://aro-and-sword.vercel.app/'
     },
     {
         id: 3,
@@ -33,8 +33,9 @@ export const projectsData = [
         description: "",
         tools: ['Python', 'Computer Simulation',],
         role: 'Data Engineer',
-        code: '',
         link: 'https://drive.google.com/file/d/1hNZ5LXt0TDBvk2a1WLoSPBB2WjJXHHBU/view',
+        code: '',
+        demo: '',
         image: poster,
     },
     {
@@ -43,8 +44,8 @@ export const projectsData = [
         description: 'Built a community-driven AI platform that connects patients with clinical trials and expert resources.',
         tools: ['GenAI', 'LLM', "Natural Language Processing", "Data Engineering",],
         role: 'Machine Learning Engineer',
-        code: '',
         link: 'https://github.com/taraliu23/Turmerik-MLE-Takehome/blob/main/Report.pdf',
+        code: '',
         demo: '',
         image: workflow
     },
