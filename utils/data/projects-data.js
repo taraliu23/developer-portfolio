@@ -15,7 +15,7 @@ export const projectsData = [
         code: '',
         demo: '',
         // image: crefin,
-        image:,
+        image: crefin,
     },
     {
         id: 2,
@@ -26,7 +26,7 @@ export const projectsData = [
         link: 'https://aro-and-sword.vercel.app/',
         code: '',
         demo: '',
-        image: ,
+        image: crefin,
     },
     {
         id: 3,
@@ -37,7 +37,7 @@ export const projectsData = [
         link: 'https://drive.google.com/file/d/1hNZ5LXt0TDBvk2a1WLoSPBB2WjJXHHBU/view',
         code: '',
         demo: '',
-        image: ,
+        image: crefin,
     },
     {
         id: 4,
@@ -48,7 +48,7 @@ export const projectsData = [
         link: 'https://github.com/taraliu23/Turmerik-MLE-Takehome/blob/main/Report.pdf',
         code: '',
         demo: '',
-        image: ,
+        image: crefin,
     },
 
 ];
