@@ -3,6 +3,7 @@
 // import quality from '/public/image/quality.png';
 // import aro from '/public/image/aro.jpg';
 // import workflow from '/public/image/workflow.png';
+import crefin from '/public/image/crefin.jpg';
 
 export const projectsData = [
     {
