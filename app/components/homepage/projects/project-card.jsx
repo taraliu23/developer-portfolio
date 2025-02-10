@@ -23,10 +23,10 @@ function ProjectCard({ project }) {
         </a>
       </div>
 
-      {/* Add project preview image */}
+      {/* Add project preview image
       <div className="px-4 lg:px-8 py-4 lg:py-8">
         <img src={project.previewImage} alt={`${project.name} preview`} className="w-full h-auto rounded-lg" />
-      </div>
+      </div> */}
 
       <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
         <code className="font-mono text-xs md:text-sm lg:text-base">
