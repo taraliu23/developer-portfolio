@@ -1,6 +1,6 @@
 // import travel from '/public/image/travel.jpg';
 // import poster from '/public/image/Poster.jpg';
-// import quality from '/public/image/quality.png';
+import quality from '/public/image/quality.png';
 // import aro from '/public/image/aro.jpg';
 // import workflow from '/public/image/workflow.png';
 import crefin from '/public/image/crefin.jpg';
@@ -9,7 +9,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'TSP Solver and Optimizer',
-        description: 'Implemented three different algorithms to solve the Traveling Salesman Problem (TSP) and evaluated their performance. Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. Applied Python- based graph theory and network optimization techniques for efficient route planning.Implemented three different algorithms to solve the Traveling Salesman Problem(TSP) and evaluated their performance.Analyzed running times and computational efficiency, demonstrating expertise in optimization & algorithm design. - Applied Python - based graph theory and network optimization techniques for efficient route planning.',
+        description: 'Implemented three different algorithms to solve the Traveling Salesman Problem (TSP) and evaluated their performance.',
         tools: ['Python', , 'C++', "Data Structure and Algorithm", "Data Visualization"],
         role: 'Software Engineer',
         link: 'https://github.com/taraliu23/CSE6140-Final-Project',
@@ -17,6 +17,7 @@ export const projectsData = [
         demo: '',
         // image: crefin,
         image: crefin,
+        previewImage: quality,
     },
     {
         id: 2,
