@@ -18,7 +18,7 @@ function ProjectCard({ project }) {
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-green-200"></div>
         </div>
         {/* Add hyperlink to project name */}
-        <a href={project.link} target="_blank" rel="noopener noreferrer" className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
+        <a href={project.link} target="_blank" rel="noopener noreferrer" className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl underline">
           {project.name}
         </a>
       </div>
