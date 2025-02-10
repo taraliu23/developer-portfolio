@@ -1,8 +1,8 @@
-import travel from '/public/image/travel.jpg';
-import poster from '/public/image/Poster.jpg';
-import quality from '/public/image/quality.png';
-import aro from '/public/image/aro.jpg';
-import workflow from '/public/image/workflow.png';
+// import travel from '/public/image/travel.jpg';
+// import poster from '/public/image/Poster.jpg';
+// import quality from '/public/image/quality.png';
+// import aro from '/public/image/aro.jpg';
+// import workflow from '/public/image/workflow.png';
 
 export const projectsData = [
     {
@@ -14,7 +14,8 @@ export const projectsData = [
         link: 'https://github.com/taraliu23/CSE6140-Final-Project',
         code: '',
         demo: '',
-        image: quality,
+        // image: crefin,
+        image:,
     },
     {
         id: 2,
@@ -25,7 +26,7 @@ export const projectsData = [
         link: 'https://aro-and-sword.vercel.app/',
         code: '',
         demo: '',
-        image: aro,
+        image: ,
     },
     {
         id: 3,
@@ -36,7 +37,7 @@ export const projectsData = [
         link: 'https://drive.google.com/file/d/1hNZ5LXt0TDBvk2a1WLoSPBB2WjJXHHBU/view',
         code: '',
         demo: '',
-        image: poster,
+        image: ,
     },
     {
         id: 4,
@@ -47,7 +48,7 @@ export const projectsData = [
         link: 'https://github.com/taraliu23/Turmerik-MLE-Takehome/blob/main/Report.pdf',
         code: '',
         demo: '',
-        image: workflow
+        image: ,
     },
 
 ];
