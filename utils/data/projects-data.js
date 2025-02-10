@@ -12,6 +12,7 @@ export const projectsData = [
         tools: ['Python', , 'C++', "Data Structure and Algorithm", "Data Visualization"],
         role: 'Data Scientist',
         link: 'https://github.com/taraliu23/CSE6140-Final-Project',
+        code: '',
         demo: '',
         image: quality,
     },
@@ -42,6 +43,7 @@ export const projectsData = [
         description: 'Built a community-driven AI platform that connects patients with clinical trials and expert resources.',
         tools: ['GenAI', 'LLM', "Natural Language Processing", "Data Engineering",],
         role: 'Machine Learning Engineer',
+        code: '',
         link: 'https://github.com/taraliu23/Turmerik-MLE-Takehome/blob/main/Report.pdf',
         demo: '',
         image: workflow
