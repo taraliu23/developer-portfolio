@@ -1,7 +1,4 @@
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
+port travel from '/public/image/travel.jpg';
 import poster from '/public/image/poster.jpg';
 import quality from '/public/image/quality.png';
 import aro from '/public/image/aro.jpg';
@@ -49,18 +46,6 @@ export const projectsData = [
         demo: '',
         image: workflow
     },
-    // {
-    //     id: 3,
-    //     name: 'Aggressive or polite?: Social Media Analysis on Metal Music',
-    //     description: '',
-    //     tools: ['NLP', 'Docker', 'Verification and Validation ',],
-    //     code: 'https://rpubs.com/drunken-boat/major4-final-2',
-    //     role: 'Full Stack Developer',
-    //     demo: '',
-    //     // image: realEstate,
-    //     link: 'https://rpubs.com/drunken-boat/major4-final-2'
-    // },
-
 
 ];
 
