@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'tliu479@gatech.edu',
+    email: 'tl.gatech+net@proton.me',
     phone: '(+1)404-915-1519',
-    address: 'Atlanta, GA, USA',
-    github: 'https://github.com/taraliu23',
+    address: 'Portland,OR,USA',
+    github: 'https://github.com/drunk3nb0at',
     facebook: '',
     linkedIn: 'https://www.linkedin.com/in/tara-tingyu-liu/',
-    twitter: 'https://twitter.com/drunken-boat',
+    // twitter: 'https://twitter.com/drunken-boat',
     stackOverflow: '',
-    devUsername: "taraliu23"
+    devUsername: "drunk3nb0at"
 }
